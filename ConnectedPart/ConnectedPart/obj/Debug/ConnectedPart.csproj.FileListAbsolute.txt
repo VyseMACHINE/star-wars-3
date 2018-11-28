@@ -1,0 +1,10 @@
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\obj\Debug\ConnectedPart.csprojAssemblyReference.cache
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\obj\Debug\ConnectedPart.csproj.CoreCompileInputs.cache
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\bin\Debug\ConnectedPart.exe.config
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\bin\Debug\ConnectedPart.exe
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\bin\Debug\ConnectedPart.pdb
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\obj\Debug\ConnectedPart.csproj.CopyComplete
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\obj\Debug\ConnectedPart.exe
+C:\Users\ЖангельдинТ\source\repos\ConnectedPart\ConnectedPart\obj\Debug\ConnectedPart.pdb
